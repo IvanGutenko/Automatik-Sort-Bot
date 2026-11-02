@@ -1,0 +1,6 @@
+.env*
+evidence
+release
+__pycache__
+.pytest_cache
+.git

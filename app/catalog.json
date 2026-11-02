@@ -1,0 +1,288 @@
+{
+  "sources": [
+    {
+      "id": -1004399566026,
+      "title": "E-MODA MAN",
+      "enabled": true,
+      "department": "men"
+    },
+    {
+      "id": -1004464612319,
+      "title": "E-MODA LADY",
+      "enabled": true,
+      "department": "women"
+    },
+    {
+      "id": -1004343454357,
+      "title": "E-MODA SHOES & BAGS",
+      "enabled": false,
+      "department": "accessories"
+    },
+    {
+      "id": -1004411146933,
+      "title": "E-MODA MAN SHOES",
+      "enabled": false,
+      "department": "accessories"
+    }
+  ],
+  "categories": [
+    {
+      "code": "women.dress",
+      "title": "Женские платья",
+      "department": "women",
+      "description": "Платья, включая вечерние",
+      "destination": -1003920678099,
+      "link": "https://t.me/e_moda_dresses"
+    },
+    {
+      "code": "women.suit_classic",
+      "title": "Женские классические костюмы",
+      "department": "women",
+      "description": "Классический костюм / комплект, пиджак с брюками или юбкой",
+      "destination": -1003945799480,
+      "link": "https://t.me/e_moda_classical_suits"
+    },
+    {
+      "code": "women.suit_casual",
+      "title": "Женские прогулочные комплекты",
+      "department": "women",
+      "description": "Прогулочный комплект из согласованных вещей, не одиночные брюки",
+      "destination": -1003903091787,
+      "link": "https://t.me/e_moda_walking_suits"
+    },
+    {
+      "code": "women.blouse",
+      "title": "Блузки и рубашки",
+      "department": "women",
+      "description": "Женские блузки и рубашки",
+      "destination": -1003980798307,
+      "link": "https://t.me/e_moda_blouses1"
+    },
+    {
+      "code": "women.tshirt",
+      "title": "Женские футболки",
+      "department": "women",
+      "description": "Футболки и топы",
+      "destination": -1004439809906,
+      "link": "https://t.me/e_moda_tshirts"
+    },
+    {
+      "code": "women.vest",
+      "title": "Женские безрукавки",
+      "department": "women",
+      "description": "Жилеты и безрукавки",
+      "destination": null,
+      "link": "https://t.me/+qHwsDOZn6GgyM2M8"
+    },
+    {
+      "code": "women.knitwear",
+      "title": "Женский трикотаж",
+      "department": "women",
+      "description": "Трикотаж, кроме свитеров и кардиганов",
+      "destination": null,
+      "link": "https://t.me/+eaYOab5YD6xiMDBk"
+    },
+    {
+      "code": "women.sweater",
+      "title": "Женские свитеры",
+      "department": "women",
+      "description": "Свитеры, джемперы, пуловеры",
+      "destination": -1004317462828,
+      "link": "https://t.me/e_moda_sweaters"
+    },
+    {
+      "code": "women.cardigan",
+      "title": "Женские кардиганы",
+      "department": "women",
+      "description": "Кардиганы с открытым передом или застёжкой",
+      "destination": null,
+      "link": "https://t.me/+TG_fs8qcX8s5OTQ8"
+    },
+    {
+      "code": "women.pants",
+      "title": "Женские брюки и шорты",
+      "department": "women",
+      "description": "Отдельные брюки и шорты, кроме джинсовых",
+      "destination": -1004293332258,
+      "link": "https://t.me/e_moda_trousers",
+      "single_only": true
+    },
+    {
+      "code": "women.denim",
+      "title": "Женская джинсовая одежда",
+      "department": "women",
+      "description": "Джинсовые изделия, джинсы, куртки и другие вещи из денима",
+      "destination": -1004335023883,
+      "link": "https://t.me/e_moda_jeans"
+    },
+    {
+      "code": "women.skirt",
+      "title": "Женские юбки",
+      "department": "women",
+      "description": "Отдельные юбки",
+      "destination": -1004363379603,
+      "link": "https://t.me/e_moda_skirts"
+    },
+    {
+      "code": "women.jumpsuit",
+      "title": "Женские комбинезоны",
+      "department": "women",
+      "description": "Цельные комбинезоны",
+      "destination": -1004321720104,
+      "link": "https://t.me/e_moda_overalls"
+    },
+    {
+      "code": "women.jacket",
+      "title": "Женские куртки и пуховики",
+      "department": "women",
+      "description": "Ветровки, куртки и пуховики, кроме кожаных",
+      "destination": -1004395653363,
+      "link": "https://t.me/e_moda_windcoats"
+    },
+    {
+      "code": "women.leather",
+      "title": "Женская кожаная одежда",
+      "department": "women",
+      "description": "Изделия из кожи и экокожи",
+      "destination": null,
+      "link": "https://t.me/+ljdwzydeqHUwM2U8"
+    },
+    {
+      "code": "women.coat",
+      "title": "Женские пальто и плащи",
+      "department": "women",
+      "description": "Пальто, плащи, тренчи",
+      "destination": -1004361808362,
+      "link": "https://t.me/e_moda_coats"
+    },
+    {
+      "code": "women.sport",
+      "title": "Женская спортивная одежда",
+      "department": "women",
+      "description": "Одежда для спорта; прогулочные комплекты не сюда",
+      "destination": -1004427086270,
+      "link": "https://t.me/e_moda_lady_sport"
+    },
+    {
+      "code": "women.modest",
+      "title": "Исламская одежда",
+      "department": "women",
+      "description": "Явно продаваемые абайи, хиджабы и специализированная modest одежда",
+      "destination": -1003608092443,
+      "link": "https://t.me/e_moda_islam"
+    },
+    {
+      "code": "women.maternity",
+      "title": "Одежда для беременных",
+      "department": "women",
+      "description": "Только явное назначение для беременных",
+      "destination": -1004422962615,
+      "link": "https://t.me/e_moda_pregnant"
+    },
+    {
+      "code": "women.plus_size",
+      "title": "Женские большие размеры",
+      "department": "women",
+      "description": "Одежда, явно обозначенная как plus size / большие размеры. Без явной маркировки и понятной размерной системы не выводить это только из числа размера.",
+      "destination": -1003867870692,
+      "link": "https://t.me/e_moda_lady_bigsize"
+    },
+    {
+      "code": "men.suit",
+      "title": "Мужские костюмы и пиджаки",
+      "department": "men",
+      "description": "Классические костюмы и отдельные пиджаки",
+      "destination": null,
+      "link": "https://t.me/+M3Mba72y8G5mOTFk"
+    },
+    {
+      "code": "men.shirt",
+      "title": "Мужские рубашки",
+      "department": "men",
+      "description": "Рубашки",
+      "destination": null,
+      "link": "https://t.me/+fRi2HK8bxokyYzU0"
+    },
+    {
+      "code": "men.tshirt",
+      "title": "Мужские футболки",
+      "department": "men",
+      "description": "Футболки",
+      "destination": null,
+      "link": "https://t.me/+1WZNKjkbhmZhZmFk"
+    },
+    {
+      "code": "men.vest",
+      "title": "Мужские безрукавки",
+      "department": "men",
+      "description": "Жилеты и безрукавки",
+      "destination": null,
+      "link": "https://t.me/+EM6sL_BLPzwwYjk0"
+    },
+    {
+      "code": "men.sweater",
+      "title": "Мужские свитеры и кардиганы",
+      "department": "men",
+      "description": "Свитеры, джемперы, кардиганы",
+      "destination": null,
+      "link": "https://t.me/+lCWp4hgPrfxiNDA8"
+    },
+    {
+      "code": "men.pants",
+      "title": "Мужские брюки и шорты",
+      "department": "men",
+      "description": "Брюки и шорты, кроме джинсов",
+      "destination": null,
+      "link": "https://t.me/+fVlMgDa3qXQ1YzY0",
+      "single_only": true
+    },
+    {
+      "code": "men.denim",
+      "title": "Мужская джинсовая одежда",
+      "department": "men",
+      "description": "Джинсы и прочая джинсовая одежда",
+      "destination": null,
+      "link": "https://t.me/+rNbU-rZizgJiNTFk"
+    },
+    {
+      "code": "men.windbreaker",
+      "title": "Мужские ветровки",
+      "department": "men",
+      "description": "Лёгкие ветровки",
+      "destination": null,
+      "link": "https://t.me/+PqM6nhNRT_kyMzNk"
+    },
+    {
+      "code": "men.jacket",
+      "title": "Мужские куртки и пуховики",
+      "department": "men",
+      "description": "Куртки и пуховики",
+      "destination": null,
+      "link": "https://t.me/+2ZznKwxO4BZmNzZk"
+    },
+    {
+      "code": "men.leather",
+      "title": "Мужская кожаная одежда",
+      "department": "men",
+      "description": "Кожа и экокожа",
+      "destination": null,
+      "link": "https://t.me/+_YGq7wCPiKliNWQ8"
+    },
+    {
+      "code": "men.coat",
+      "title": "Мужские пальто и тренчи",
+      "department": "men",
+      "description": "Пальто и тренчи",
+      "destination": null,
+      "link": "https://t.me/+faBdTx2CM5s3OTg0"
+    },
+    {
+      "code": "men.sport",
+      "title": "Мужская спортивная одежда",
+      "department": "men",
+      "description": "Спортивная одежда и спортивные костюмы",
+      "destination": null,
+      "link": "https://t.me/+9lB1-kqotb0wODE8"
+    }
+  ]
+}
